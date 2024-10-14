@@ -43,6 +43,9 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+<<<<<<< HEAD
 /.vs/portfolio-website/FileContentIndex/12dd9781-4471-41aa-af26-b5904e196be1.vsidx
 *.vsidx
 /.vs/slnx.sqlite
+=======
+>>>>>>> f81b07aec8bf1e5a8e034c6fa014fcdbae1487e0
